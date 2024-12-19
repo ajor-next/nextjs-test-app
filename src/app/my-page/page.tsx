@@ -2,6 +2,7 @@
 
 import React, { useState } from "react";
 
+
 const SignupPage: React.FC = () => {
   const [formData, setFormData] = useState({
     name: "",
